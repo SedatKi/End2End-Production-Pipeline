@@ -8,7 +8,7 @@ pipeline{
     }
 
     environment {
-        APP_NAME = "End2End-Production-Pipeline"
+        APP_NAME = "end2End-Production-Pipeline"
         RELEASE = "1.0.0"
         DOCKER_USER = "sedatki"
         DOCKER_PASS = 'dockerhub'
